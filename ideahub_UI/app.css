@@ -1,0 +1,45 @@
+#ques{
+  color: purple;
+}
+
+
+.srh{
+  color:purple;
+}
+/* pop up css */
+
+.add{
+  background-color: rgb(72,61,139);
+}
+
+
+#question-panel{
+  width:60%;
+  margin-left: 20%;
+  display:none;
+}
+
+.ans_popup {
+  display:none;
+  width: 60%;
+  margin-left: 20%;
+}
+
+.ans_button{
+  background-color: rgb(72,61,139);
+}
+
+#ques-label, .ans-label {
+  min-width: 100%;
+}
+
+.post_ans{
+  background-color: rgb(72,61,139);
+}
+
+
+
+
+
+
+/* pop css begins */

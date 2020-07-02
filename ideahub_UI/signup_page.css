@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+  background-color:#e2dfdf;
+}
+
+h1{
+  font-size: 4em;
+  font-style: italic;
+
+}
+
+.nav1{
+  background-color: rgb(72,61,139);
+}
+
+#si{
+  color:white;
+}
+
+p{
+  font-size: 2.5em;
+  font-style: italic;
+}
+
+
+#sub{
+  height:40px;
+  width:70px;
+  border-radius:15%;
+  background-color:rgb(72,61,139);
+  color: white;
+}
+
+
+input{
+  height:30px;
+  width:250px;
+}
+
+label{
+  font-size: 1.5em;
+
+}
+
+#one{
+  margin-top: 2%;
+}
